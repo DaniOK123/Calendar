@@ -1,6 +1,6 @@
-/*
-const table = document.getElementById("table_settimana");
-table.addEventListener("click", function() {
-    alert("Hai toccato la tabella")
+document.getElementById("table_settimana").addEventListener("click", function() {
+    let blocco = document.getElementById("blocco");
+
+    blocco.style.display = "block";
 });
-*/
+
