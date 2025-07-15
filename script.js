@@ -4,3 +4,4 @@ document.getElementById("table_settimana").addEventListener("click", function() 
     blocco.style.display = "block";
 });
 
+/* commento messo per poter compiere il commit*/
